@@ -11,7 +11,7 @@
 
 ## ✨ *Github Stats* ✨
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayconTostes&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconTostes&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconTostes&layout=compact&theme=dark)
 
 ## 📲 *Reach me* 📲
 
