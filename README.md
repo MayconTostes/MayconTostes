@@ -1,6 +1,6 @@
 ## ⚡ *Hi there, I'm Maycon* ⚡
 
-* Information System Student at UFES
+* Information System Student - UFES
 
 ## 💻 *Languages and Tools* 💻
 
