@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayconTostes&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconTostes&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aMayconTostes&layout=compact)
 
 <!--
 **MayconTostes/MayconTostes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
