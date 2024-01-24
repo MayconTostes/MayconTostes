@@ -10,8 +10,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## ✨ *Github Stats* ✨
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayconTostes&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconTostes&layout=compact&theme=dark)
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MayconTostes&show_icons=true&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconTostes&layout=compact&theme=dark"/>
+</div>
 
 ## 📲 *Reach me* 📲
 
