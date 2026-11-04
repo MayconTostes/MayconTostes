@@ -11,10 +11,10 @@
 
 ## ✨ *Github Stats* ✨
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MayconTostes&show_icons=true&theme=dark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconTostes&layout=compact&theme=dark" />
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MayconTostes&show_icons=true&theme=dark" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MayconTostes&layout=compact&theme=dark" />
+</p>
 
 ## 📲 *Reach me* 📲
 
