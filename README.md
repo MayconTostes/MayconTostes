@@ -13,7 +13,9 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MayconTostes&theme=dark" />
-  <img height="180" src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api?username=MayconTostes&show_icons=true&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MayconTostes&theme=onedark&column=3" />
 </p>
 
 ## 📲 *Reach me* 📲
